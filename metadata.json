@@ -1,0 +1,7 @@
+{
+  "name": "CarboLoom",
+  "description": "A gamified web app for young people to track their carbon footprint, compare with peers, and discover eco-friendly habits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
